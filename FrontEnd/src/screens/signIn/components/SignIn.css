@@ -1,0 +1,22 @@
+.paper{
+    margin-top: 64px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px;
+    height:'70vh';
+    width:200;
+  }
+  .form {
+    width: 100%;
+    margin: 8px;
+  }
+  .submit {
+    margin: 24px 0px 16px;
+  }
+  .button{
+    margin: '8px 0px';
+  }
+  .textField{
+      
+  }

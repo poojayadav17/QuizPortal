@@ -1,0 +1,6 @@
+export const Login = require('./login.png')
+export const RegisterImg = require('./reg1.jpg')
+// export const RegisterImg = require('../../../public/reg2.jpg')
+export const ComputerImg = require('./computer.jpg')
+export const gkImg = require('./gk.png')
+export const javaImg = require('./java.jpg')
